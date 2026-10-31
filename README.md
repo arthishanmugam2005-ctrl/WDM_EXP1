@@ -75,7 +75,7 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-<img width="952" height="566" alt="W3" src="https://github.com/user-attachments/assets/7afb8d4f-9ecc-4479-bc6c-6d8ba1382824" />
+<img width="938" height="557" alt="We3" src="https://github.com/user-attachments/assets/5256f5fa-c2cd-41b6-9414-8219ada2c110" />
 <img width="952" height="566" alt="W4" src="https://github.com/user-attachments/assets/5c2311d3-a017-4487-9517-5e9b84d5dac6" />
 
 ### 2) Remove -> Pre-Processing Technique:
@@ -94,8 +94,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 <img width="938" height="562" alt="W5" src="https://github.com/user-attachments/assets/e8699d52-16a6-4a40-8ff5-c3ddf3605da3" />
-<img width="938" height="562" alt="W6" src="https://github.com/user-attachments/assets/115465b8-6bad-48c6-847e-9c0bfd8d0484" />
-
+<img width="937" height="560" alt="We6" src="https://github.com/user-attachments/assets/ef6c57f4-e84c-4208-b728-04582efe7f2f" />
 
 
 ### Normalize -> Pre-Processing Technique:
